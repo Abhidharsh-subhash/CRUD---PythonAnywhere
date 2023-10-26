@@ -86,7 +86,7 @@ DATABASES = {
     'default': {
          'ENGINE': 'django.db.backends.mysql',
         'NAME': 'crud',
-        'USER': 'root',
+        'USER': 'Abhidharsh',
         'PASSWORD': 'abhidharsh@17952001',
         'HOST': 'Abhidharsh.mysql.pythonanywhere-services.com',
         'PORT': '3306',
