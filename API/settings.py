@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(8r)qy!n4sfm%8%p^+a*d@uruq&%jomok%fm4z4+5veb9c0kwl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Abhidharsh.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -86,9 +86,9 @@ DATABASES = {
     'default': {
          'ENGINE': 'django.db.backends.mysql',
         'NAME': 'crud',
-        'USER': 'Abhidharsh',
-        'PASSWORD': 'abhidharsh@17952001',
-        'HOST': 'Abhidharsh.mysql.pythonanywhere-services.com',
+        'USER': 'root',
+        'PASSWORD': 'abhidharsh@1999',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
