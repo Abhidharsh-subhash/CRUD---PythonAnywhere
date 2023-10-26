@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'crud',
         'USER': 'root',
         'PASSWORD': 'abhidharsh@17952001',
-        'HOST': 'localhost',
+        'HOST': 'Abhidharsh.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
